@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: feather_share_2_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24"><circle xmlns="http://www.w3.org/2000/svg" cx="18" cy="5" r="3"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="6" cy="12" r="3"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="18" cy="19" r="3"></circle><line xmlns="http://www.w3.org/2000/svg" x1="8.59" x2="15.42" y1="13.51" y2="17.49"></line><line xmlns="http://www.w3.org/2000/svg" x1="15.41" x2="8.59" y1="6.51" y2="10.49"></line></svg>

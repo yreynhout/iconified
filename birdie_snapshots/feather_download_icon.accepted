@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: feather_download_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24"><path xmlns="http://www.w3.org/2000/svg" d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline xmlns="http://www.w3.org/2000/svg" points="7 10 12 15 17 10"></polyline><line xmlns="http://www.w3.org/2000/svg" x1="12" x2="12" y1="15" y2="3"></line></svg>

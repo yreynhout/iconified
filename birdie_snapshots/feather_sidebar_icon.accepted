@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: feather_sidebar_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24"><rect xmlns="http://www.w3.org/2000/svg" height="18" rx="2" ry="2" width="18" x="3" y="3"></rect><line xmlns="http://www.w3.org/2000/svg" x1="9" x2="9" y1="3" y2="21"></line></svg>

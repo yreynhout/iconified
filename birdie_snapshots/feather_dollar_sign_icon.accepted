@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: feather_dollar_sign_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24"><line xmlns="http://www.w3.org/2000/svg" x1="12" x2="12" y1="1" y2="23"></line><path xmlns="http://www.w3.org/2000/svg" d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>

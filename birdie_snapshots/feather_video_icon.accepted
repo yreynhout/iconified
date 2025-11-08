@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: feather_video_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24"><polygon xmlns="http://www.w3.org/2000/svg" points="23 7 16 12 23 17 23 7"></polygon><rect xmlns="http://www.w3.org/2000/svg" height="14" rx="2" ry="2" width="15" x="1" y="5"></rect></svg>

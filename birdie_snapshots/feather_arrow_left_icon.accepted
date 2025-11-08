@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: feather_arrow_left_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24"><line xmlns="http://www.w3.org/2000/svg" x1="19" x2="5" y1="12" y2="12"></line><polyline xmlns="http://www.w3.org/2000/svg" points="12 19 5 12 12 5"></polyline></svg>

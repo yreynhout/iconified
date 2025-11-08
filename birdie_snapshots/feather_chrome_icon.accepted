@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: feather_chrome_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24"><circle xmlns="http://www.w3.org/2000/svg" cx="12" cy="12" r="10"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="12" cy="12" r="4"></circle><line xmlns="http://www.w3.org/2000/svg" x1="21.17" x2="12" y1="8" y2="8"></line><line xmlns="http://www.w3.org/2000/svg" x1="3.95" x2="8.54" y1="6.06" y2="14"></line><line xmlns="http://www.w3.org/2000/svg" x1="10.88" x2="15.46" y1="21.94" y2="14"></line></svg>

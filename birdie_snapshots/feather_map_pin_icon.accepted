@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: feather_map_pin_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24"><path xmlns="http://www.w3.org/2000/svg" d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle xmlns="http://www.w3.org/2000/svg" cx="12" cy="10" r="3"></circle></svg>

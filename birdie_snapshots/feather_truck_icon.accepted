@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: feather_truck_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24"><rect xmlns="http://www.w3.org/2000/svg" height="13" width="15" x="1" y="3"></rect><polygon xmlns="http://www.w3.org/2000/svg" points="16 8 20 8 23 11 23 16 16 16 16 8"></polygon><circle xmlns="http://www.w3.org/2000/svg" cx="5.5" cy="18.5" r="2.5"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="18.5" cy="18.5" r="2.5"></circle></svg>

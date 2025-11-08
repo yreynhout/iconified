@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: feather_git_merge_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24"><circle xmlns="http://www.w3.org/2000/svg" cx="18" cy="18" r="3"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="6" cy="6" r="3"></circle><path xmlns="http://www.w3.org/2000/svg" d="M6 21V9a9 9 0 0 0 9 9"></path></svg>

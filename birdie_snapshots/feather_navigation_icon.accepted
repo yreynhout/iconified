@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: feather_navigation_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24"><polygon xmlns="http://www.w3.org/2000/svg" points="3 11 22 2 13 21 11 13 3 11"></polygon></svg>

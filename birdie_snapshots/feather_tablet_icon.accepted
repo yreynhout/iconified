@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: feather_tablet_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24"><rect xmlns="http://www.w3.org/2000/svg" height="20" rx="2" ry="2" width="16" x="4" y="2"></rect><line xmlns="http://www.w3.org/2000/svg" x1="12" x2="12.01" y1="18" y2="18"></line></svg>
