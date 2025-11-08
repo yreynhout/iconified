@@ -64,7 +64,7 @@ pub fn main() -> Nil {
     }
     _ -> {
       io.println(
-        "usage: ./generator heroicons <directory-path-to-icons> <file-path-to-generated-code>",
+        "usage: ./generate heroicons <directory-path-to-icons> <file-path-to-generated-code>",
       )
     }
   }
