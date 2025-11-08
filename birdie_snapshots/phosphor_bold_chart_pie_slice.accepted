@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_chart_pie_slice
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M32.42,137q-.42-4.44-.42-9A95.93,95.93,0,0,1,88,40.74v65.41Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><path xmlns="http://www.w3.org/2000/svg" d="M128,128.42V32A96,96,0,1,1,45.22,176.64Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

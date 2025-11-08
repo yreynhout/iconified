@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_finn_the_human
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="80" rx="40" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" width="144" x="56" y="108"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="96" cy="148" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="160" cy="148" r="16"></circle><path xmlns="http://www.w3.org/2000/svg" d="M20,72a24,24,0,0,1,48,0H188a24,24,0,0,1,48,0v76a76,76,0,0,1-76,76H96a76,76,0,0,1-76-76Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

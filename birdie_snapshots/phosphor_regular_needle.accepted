@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_regular_needle
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="184" x2="168" y1="72" y2="88"></line><path xmlns="http://www.w3.org/2000/svg" d="M182.63,118.63l24-24a32,32,0,0,0-45.26-45.26l-24,24C128,128,40,216,40,216S128,128,182.63,118.63Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path></svg>

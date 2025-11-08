@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_fish_simple
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="156" cy="76" r="8"></circle><path xmlns="http://www.w3.org/2000/svg" d="M16,183.87C272,240,220,38.7,219,37,217.29,36,16-16,72.1,240" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path><path xmlns="http://www.w3.org/2000/svg" d="M202.45,151.85a104,104,0,0,1-98.3-98.3" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path></svg>

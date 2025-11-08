@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_tree_evergreen
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polygon xmlns="http://www.w3.org/2000/svg" opacity="0.2" points="128 16 48 120 88 120 32 192 224 192 168 120 208 120 128 16"></polygon><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="128 16 48 120 88 120 32 192 224 192 168 120 208 120 128 16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polygon><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="128" x2="128" y1="192" y2="240"></line></svg>

@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_light_arrow_clockwise
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="184 104 232 104 232 56" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></polyline><path xmlns="http://www.w3.org/2000/svg" d="M188.4,192a88,88,0,1,1,1.83-126.23L232,104" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></path></svg>

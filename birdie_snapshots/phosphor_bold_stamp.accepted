@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_stamp
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="40" x2="216" y1="224" y2="224"></line><path xmlns="http://www.w3.org/2000/svg" d="M110.32,136l-15-83.78A24,24,0,0,1,119,24h18a24,24,0,0,1,23.63,28.22l-15,83.78" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="48" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" width="176" x="40" y="136"></rect></svg>

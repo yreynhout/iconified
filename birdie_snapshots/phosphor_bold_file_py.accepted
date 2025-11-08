@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_file_py
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="148 32 148 92 208 92" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><path xmlns="http://www.w3.org/2000/svg" d="M172,224h28a8,8,0,0,0,8-8V88L152,32H56a8,8,0,0,0-8,8v68" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><path xmlns="http://www.w3.org/2000/svg" d="M48,192H64a20,20,0,0,0,0-40H48v56" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="112 152 132 184 152 152" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="132" x2="132" y1="184" y2="208"></line></svg>

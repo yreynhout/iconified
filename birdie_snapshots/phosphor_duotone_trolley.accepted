@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_trolley
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M48,72H224a16,16,0,0,1,16,16v96a0,0,0,0,1,0,0H48a0,0,0,0,1,0,0V72A0,0,0,0,1,48,72Z" opacity="0.2"></path><circle xmlns="http://www.w3.org/2000/svg" cx="72" cy="224" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="216" cy="224" r="16"></circle><path xmlns="http://www.w3.org/2000/svg" d="M24,48,45.66,69.66A8,8,0,0,1,48,75.31V184" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="32" x2="240" y1="184" y2="184"></line></svg>

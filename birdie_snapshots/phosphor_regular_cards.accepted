@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_regular_cards
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="128" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" width="160" x="32" y="80"></rect><path xmlns="http://www.w3.org/2000/svg" d="M64,48H216a8,8,0,0,1,8,8V176" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path></svg>

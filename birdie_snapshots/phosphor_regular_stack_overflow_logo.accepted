@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_regular_stack_overflow_logo
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="48 152 48 216 208 216 208 152" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="88" x2="168" y1="176" y2="176"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="94.95" x2="172.23" y1="123.2" y2="143.91"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="115.33" x2="184.61" y1="74" y2="114"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="147.75" x2="204.32" y1="31.75" y2="88.32"></line></svg>

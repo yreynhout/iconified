@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_sign_out
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M48,40H208a16,16,0,0,1,16,16V200a16,16,0,0,1-16,16H48a0,0,0,0,1,0,0V40A0,0,0,0,1,48,40Z" opacity="0.2"></path><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="112 40 48 40 48 216 112 216" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="112" x2="224" y1="128" y2="128"></line><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="184 88 224 128 184 168" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline></svg>

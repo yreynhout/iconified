@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_identification_card
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="160" x2="188" y1="108" y2="108"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="168" x2="188" y1="148" y2="148"></line><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="160" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" width="192" x="32" y="48"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="100" cy="120" fill="none" r="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><path xmlns="http://www.w3.org/2000/svg" d="M69.34,164c4.91-11.73,17.23-20,30.66-20s25.75,8.26,30.66,20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

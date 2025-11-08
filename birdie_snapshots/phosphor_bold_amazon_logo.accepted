@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_amazon_logo
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M240,168l-16,16s-36,40-96,40-96-40-96-40" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="208 168 240 168 240 200" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><circle xmlns="http://www.w3.org/2000/svg" cx="124" cy="132" fill="none" r="44" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><path xmlns="http://www.w3.org/2000/svg" d="M168,176V84A44,44,0,0,0,87.12,60" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

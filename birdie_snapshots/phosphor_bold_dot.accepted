@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_dot
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" r="16"></circle></svg>

@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_regular_atom
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><ellipse xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" fill="none" rx="44.13" ry="116.33" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" transform="translate(-53.02 128) rotate(-45)"></ellipse><ellipse xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" fill="none" rx="116.33" ry="44.13" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" transform="translate(-53.02 128) rotate(-45)"></ellipse><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" r="12"></circle></svg>

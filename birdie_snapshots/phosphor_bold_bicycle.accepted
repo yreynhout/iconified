@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_bicycle
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M208,80a16,16,0,0,0-16-16H148l56,96" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><circle xmlns="http://www.w3.org/2000/svg" cx="204" cy="160" fill="none" r="40" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="52" cy="160" fill="none" r="40" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="166.67 96 102.67 96 52 160" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="52 64 84 64 128.33 140" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg>

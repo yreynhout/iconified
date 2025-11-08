@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_devices
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="80" rx="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" transform="translate(344 -56) rotate(90)" width="128" x="136" y="104"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="128" x2="88" y1="208" y2="208"></line><path xmlns="http://www.w3.org/2000/svg" d="M160,176H40a16,16,0,0,1-16-16V64A16,16,0,0,1,40,48H184a16,16,0,0,1,16,16V80" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="192" x2="208" y1="112" y2="112"></line></svg>

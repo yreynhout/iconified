@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_regular_trademark
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" fill="none" r="96" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="72" x2="104" y1="104" y2="104"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="88" x2="88" y1="104" y2="152"></line><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="128 152 128 104 156 136 184 104 184 152" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline></svg>

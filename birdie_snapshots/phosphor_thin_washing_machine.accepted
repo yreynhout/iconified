@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_washing_machine
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="176" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" width="176" x="40" y="40"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" fill="none" r="56" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="188" cy="68" r="8"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="120" x2="104" y1="112" y2="128"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="120" x2="152" y1="152" y2="120"></line></svg>

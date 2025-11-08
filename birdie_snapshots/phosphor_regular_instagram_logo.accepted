@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_regular_instagram_logo
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" fill="none" r="40" stroke="currentColor" stroke-miterlimit="10" stroke-width="16"></circle><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="192" rx="48" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" width="192" x="32" y="32"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="180" cy="76" r="12"></circle></svg>

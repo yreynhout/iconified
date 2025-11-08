@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_battery_empty
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="128" rx="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" width="200" x="12" y="64"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="244" x2="244" y1="104" y2="152"></line></svg>

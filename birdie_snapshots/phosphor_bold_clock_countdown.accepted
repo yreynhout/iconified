@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_clock_countdown
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M224,136c-4.07,49.28-45.67,88-96,88a96,96,0,0,1-96-96c0-50.33,38.72-91.93,88-96" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="128 76 128 128 180 128" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><circle xmlns="http://www.w3.org/2000/svg" cx="208" cy="80" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="176" cy="48" r="16"></circle></svg>

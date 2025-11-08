@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_arrow_square_up
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="176" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" width="176" x="40" y="40"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="96 120 128 88 160 120" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="128" x2="128" y1="168" y2="88"></line></svg>

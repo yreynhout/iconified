@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_angle
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M104,72a96,96,0,0,1,96,96" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="72 32 72 200 240 200" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></polyline><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="32" x2="72" y1="72" y2="72"></line></svg>

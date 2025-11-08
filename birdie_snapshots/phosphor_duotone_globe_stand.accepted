@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_globe_stand
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="136" cy="104" opacity="0.2" r="72"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="136" cy="104" fill="none" r="72" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="104" x2="168" y1="240" y2="240"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="136" x2="136" y1="208" y2="240"></line><path xmlns="http://www.w3.org/2000/svg" d="M208,179.05A104,104,0,0,1,61,32" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path></svg>

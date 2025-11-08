@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_golf
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="164" cy="100" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="132" cy="132" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="96" fill="none" r="80" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="128" x2="128" y1="216" y2="244"></line><path xmlns="http://www.w3.org/2000/svg" d="M168,209.17a120.55,120.55,0,0,1-80,0" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

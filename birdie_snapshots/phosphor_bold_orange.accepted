@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_orange
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="152" fill="none" r="80" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><path xmlns="http://www.w3.org/2000/svg" d="M128,72h0a56,56,0,0,1,56-56h8a56,56,0,0,1-56,56Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><path xmlns="http://www.w3.org/2000/svg" d="M128,72h0A56,56,0,0,0,72,16H64" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><path xmlns="http://www.w3.org/2000/svg" d="M166.17,164A40.11,40.11,0,0,1,140,190.17" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_boules
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" fill="none" r="96" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="167.52" x2="40.48" y1="40.48" y2="167.52"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="195.88" x2="60.12" y1="60.12" y2="195.88"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="215.52" x2="88.48" y1="88.48" y2="215.52"></line></svg>

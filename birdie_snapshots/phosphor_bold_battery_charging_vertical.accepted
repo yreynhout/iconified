@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_battery_charging_vertical
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="128 172 144 140 112 140 128 108" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="104" x2="152" y1="12" y2="12"></line><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="200" rx="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" width="128" x="64" y="44"></rect></svg>

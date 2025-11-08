@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_gender_nonbinary
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="168" fill="none" r="64" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="128" x2="128" y1="104" y2="48"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="88" x2="168" y1="72" y2="24"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="88" x2="168" y1="24" y2="72"></line></svg>

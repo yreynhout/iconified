@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_paint_roller
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="80" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" width="156" x="44" y="56"></rect><path xmlns="http://www.w3.org/2000/svg" d="M200,96h32a8,8,0,0,1,8,8v54a8,8,0,0,1-5.8,7.69L133.8,194.34A8,8,0,0,0,128,202v30" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="44" x2="16" y1="96" y2="96"></line></svg>

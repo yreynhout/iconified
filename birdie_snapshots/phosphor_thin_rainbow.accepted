@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_rainbow
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M176,184V168a48,48,0,0,0-96,0v16" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path><path xmlns="http://www.w3.org/2000/svg" d="M208,184V168a80,80,0,0,0-160,0v16" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path><path xmlns="http://www.w3.org/2000/svg" d="M240,184V168a112,112,0,0,0-224,0v16" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path></svg>

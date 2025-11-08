@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_users
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="84" cy="108" fill="none" r="52" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><path xmlns="http://www.w3.org/2000/svg" d="M13,196a88,88,0,0,1,142,0" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><path xmlns="http://www.w3.org/2000/svg" d="M172,160a87.86,87.86,0,0,1,71,36" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><path xmlns="http://www.w3.org/2000/svg" d="M158.62,57.74A52,52,0,1,1,172,160" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

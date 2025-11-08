@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_stack_plus
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="184" x2="232" y1="200" y2="200"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="208" x2="208" y1="176" y2="224"></line><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="32 128 128 184 224 128" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></polyline><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="32 80 128 136 224 80 128 24 32 80" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></polygon><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="32 176 128 232 144 222.67" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></polyline></svg>

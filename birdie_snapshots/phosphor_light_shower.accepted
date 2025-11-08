@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_light_shower
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="52" cy="236" r="10"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="84" cy="204" r="10"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="20" cy="204" r="10"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="52" cy="172" r="10"></circle><path xmlns="http://www.w3.org/2000/svg" d="M248,40H216L184,72,161.91,201.31a8,8,0,0,1-13.54,4.34l-98-98a8,8,0,0,1,4.34-13.54L184,72" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></path></svg>

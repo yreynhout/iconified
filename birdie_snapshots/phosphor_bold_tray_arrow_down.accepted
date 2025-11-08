@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_tray_arrow_down
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M40,156H76.69a8,8,0,0,1,5.65,2.34l19.32,19.32a8,8,0,0,0,5.65,2.34h41.38a8,8,0,0,0,5.65-2.34l19.32-19.32a8,8,0,0,1,5.65-2.34H216" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="176" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" width="176" x="40" y="40"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="128" x2="128" y1="76" y2="140"></line><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="96 108 128 140 160 108" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg>

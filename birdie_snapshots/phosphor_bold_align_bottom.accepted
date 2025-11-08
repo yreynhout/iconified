@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_align_bottom
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="216" x2="40" y1="216" y2="216"></line><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="52" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" transform="translate(50 298) rotate(-90)" width="104" x="122" y="98"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="144" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" width="52" x="56" y="32"></rect></svg>

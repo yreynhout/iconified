@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_arrow_fat_lines_right
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="136 32 232 128 136 224 136 176 120 176 120 80 136 80 136 32" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polygon><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="40" x2="40" y1="176" y2="80"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="80" x2="80" y1="176" y2="80"></line></svg>

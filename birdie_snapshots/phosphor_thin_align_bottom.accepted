@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_align_bottom
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="216" x2="40" y1="216" y2="216"></line><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="56" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" transform="translate(44 300) rotate(-90)" width="112" x="116" y="100"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="152" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" width="56" x="56" y="32"></rect></svg>

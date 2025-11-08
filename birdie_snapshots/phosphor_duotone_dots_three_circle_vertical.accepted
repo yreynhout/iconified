@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_dots_three_circle_vertical
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" opacity="0.2" r="96"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" fill="none" r="96" stroke="currentColor" stroke-miterlimit="10" stroke-width="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" r="12"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="84" r="12"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="172" r="12"></circle></svg>

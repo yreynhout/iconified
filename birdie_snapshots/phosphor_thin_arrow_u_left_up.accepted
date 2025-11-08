@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_arrow_u_left_up
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="136 80 88 32 40 80" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></polyline><path xmlns="http://www.w3.org/2000/svg" d="M200,80v88a56,56,0,0,1-56,56h0a56,56,0,0,1-56-56V32" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path></svg>

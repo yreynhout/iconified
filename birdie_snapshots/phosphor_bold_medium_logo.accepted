@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_medium_logo
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="68" cy="128" fill="none" r="56" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><ellipse xmlns="http://www.w3.org/2000/svg" cx="184" cy="128" fill="none" rx="24" ry="56" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></ellipse><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="244" x2="244" y1="72" y2="184"></line></svg>

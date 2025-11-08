@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_binary
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" height="192" opacity="0.2" rx="16" width="192" x="32" y="32"></rect><ellipse xmlns="http://www.w3.org/2000/svg" cx="94" cy="72" fill="none" rx="30" ry="40" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></ellipse><ellipse xmlns="http://www.w3.org/2000/svg" cx="166" cy="184" fill="none" rx="30" ry="40" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></ellipse><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="176 112 176 32 152 45.33" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="96 224 96 144 72 157.33" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline></svg>

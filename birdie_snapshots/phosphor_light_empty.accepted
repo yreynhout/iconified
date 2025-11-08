@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_light_empty
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" fill="none" r="88" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" x1="208" x2="48" y1="40" y2="216"></line></svg>

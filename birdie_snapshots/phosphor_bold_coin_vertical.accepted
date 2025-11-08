@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_coin_vertical
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><ellipse xmlns="http://www.w3.org/2000/svg" cx="104" cy="128" fill="none" rx="56" ry="96" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></ellipse><path xmlns="http://www.w3.org/2000/svg" d="M104,32h48c30.93,0,56,43,56,96s-25.07,96-56,96H104" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="160" x2="208" y1="128" y2="128"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="149.49" x2="197.49" y1="184" y2="184"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="149.49" x2="197.49" y1="72" y2="72"></line></svg>

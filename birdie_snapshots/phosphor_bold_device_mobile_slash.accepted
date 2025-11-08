@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_device_mobile_slash
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="48" x2="208" y1="40" y2="216"></line><path xmlns="http://www.w3.org/2000/svg" d="M192,198.4V216a16,16,0,0,1-16,16H80a16,16,0,0,1-16-16V57.6" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><path xmlns="http://www.w3.org/2000/svg" d="M87.51,24H176a16,16,0,0,1,16,16v98.94" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

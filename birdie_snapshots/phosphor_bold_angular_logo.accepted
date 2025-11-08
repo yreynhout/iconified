@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_angular_logo
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="128 232 208 192 224 72 128 32 32 72 48 192 128 232" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polygon><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="168 160 128 88 88 160" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="99.11" x2="156.89" y1="140" y2="140"></line></svg>

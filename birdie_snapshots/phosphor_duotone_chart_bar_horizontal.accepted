@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_chart_bar_horizontal
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" height="48" opacity="0.2" width="176" x="48" y="104"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="48" x2="48" y1="216" y2="40"></line><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="48 56 176 56 176 104" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="48 104 224 104 224 152 48 152" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="144 152 144 200 48 200" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline></svg>

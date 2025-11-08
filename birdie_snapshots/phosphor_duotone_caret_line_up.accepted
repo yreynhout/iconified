@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_caret_line_up
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polygon xmlns="http://www.w3.org/2000/svg" opacity="0.2" points="48 192 128 112 208 192 48 192"></polygon><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="48 192 128 112 208 192 48 192" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polygon><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="48" x2="208" y1="72" y2="72"></line></svg>

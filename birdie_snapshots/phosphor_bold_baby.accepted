@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_baby
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="92" cy="128" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="164" cy="128" r="16"></circle><path xmlns="http://www.w3.org/2000/svg" d="M156,172a53,53,0,0,1-56,0" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" fill="none" r="96" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><path xmlns="http://www.w3.org/2000/svg" d="M123.93,32.08C108,52.06,108,72,108,72a20,20,0,0,0,40,0" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

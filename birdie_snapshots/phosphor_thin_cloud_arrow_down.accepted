@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_cloud_arrow_down
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M96,208H72A56,56,0,1,1,85.92,97.74" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path><path xmlns="http://www.w3.org/2000/svg" d="M80,128a80,80,0,1,1,144,48" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="120 176 152 208 184 176" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></polyline><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="152" x2="152" y1="128" y2="208"></line></svg>

@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_steps
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M224,200H72V152h56V104h56V56h56V184A16,16,0,0,1,224,200Z" opacity="0.2"></path><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="16 200 72 200 72 152 128 152 128 104 184 104 184 56 240 56" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline></svg>

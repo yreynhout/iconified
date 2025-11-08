@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_dots_nine
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="60" cy="60" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="60" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="196" cy="60" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="60" cy="128" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="196" cy="128" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="60" cy="196" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="196" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="196" cy="196" r="16"></circle></svg>

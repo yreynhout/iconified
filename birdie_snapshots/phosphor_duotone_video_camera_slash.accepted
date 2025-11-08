@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_video_camera_slash
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" height="128" opacity="0.2" rx="8" width="176" x="24" y="64"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="200 112 248 80 248 176 200 144" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="48" x2="208" y1="40" y2="216"></line><path xmlns="http://www.w3.org/2000/svg" d="M113.06,64H192a8,8,0,0,1,8,8v87.63" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path><path xmlns="http://www.w3.org/2000/svg" d="M186.18,192H32a8,8,0,0,1-8-8V72a8,8,0,0,1,8-8H69.82" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path></svg>

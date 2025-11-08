@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_light_arrow_line_down
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" x1="128" x2="128" y1="32" y2="184"></line><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="56 112 128 184 200 112" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></polyline><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" x1="40" x2="216" y1="216" y2="216"></line></svg>

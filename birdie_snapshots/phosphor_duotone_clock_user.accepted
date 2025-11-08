@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_clock_user
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M191.48,200l0,0a24,24,0,1,1,23.41-31.17,96,96,0,1,0-52.43,48.79A33.15,33.15,0,0,1,191.48,200Z" opacity="0.2"></path><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="176 104 128 128 128 72" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline><path xmlns="http://www.w3.org/2000/svg" d="M128,224a96,96,0,1,1,96-96" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path><path xmlns="http://www.w3.org/2000/svg" d="M160,224c3.67-13.8,16.6-24,32-24s28.33,10.2,32,24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path><circle xmlns="http://www.w3.org/2000/svg" cx="192" cy="176" fill="none" r="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></circle></svg>

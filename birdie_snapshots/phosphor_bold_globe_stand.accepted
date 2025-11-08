@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_globe_stand
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="136" cy="104" fill="none" r="60" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="104" x2="168" y1="240" y2="240"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="136" x2="136" y1="204" y2="240"></line><path xmlns="http://www.w3.org/2000/svg" d="M204,177.32A100,100,0,0,1,62.68,36" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

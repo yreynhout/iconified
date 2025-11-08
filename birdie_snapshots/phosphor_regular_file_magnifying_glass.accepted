@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_regular_file_magnifying_glass
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M200,224H56a8,8,0,0,1-8-8V40a8,8,0,0,1,8-8h96l56,56V216A8,8,0,0,1,200,224Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="152 32 152 88 208 88" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline><circle xmlns="http://www.w3.org/2000/svg" cx="124" cy="148" fill="none" r="28" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="143.8" x2="160" y1="167.8" y2="184"></line></svg>

@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_shuffle_angular
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="32 72 88 72 168 184 232 184" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="208 48 232 72 208 96" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="208 160 232 184 208 208" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="32 184 88 184 103.42 162.41" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="152.58 93.59 168 72 232 72" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg>

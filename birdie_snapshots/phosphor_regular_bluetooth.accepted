@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_regular_bluetooth
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="128 32 192 80 128 128 128 32" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polygon><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="128 128 192 176 128 224 128 128" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polygon><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="64" x2="128" y1="80" y2="128"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="64" x2="128" y1="176" y2="128"></line></svg>

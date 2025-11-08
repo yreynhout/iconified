@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_device_mobile
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="208" rx="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" width="128" x="64" y="24"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="64" x2="192" y1="56" y2="56"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="64" x2="192" y1="200" y2="200"></line></svg>

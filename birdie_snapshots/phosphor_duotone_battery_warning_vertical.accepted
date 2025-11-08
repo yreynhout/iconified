@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_battery_warning_vertical
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" height="200" opacity="0.2" rx="16" width="128" x="64" y="40"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="96" x2="160" y1="8" y2="8"></line><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="200" rx="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" width="128" x="64" y="40"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="128" x2="128" y1="96" y2="136"></line><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="172" r="12"></circle></svg>

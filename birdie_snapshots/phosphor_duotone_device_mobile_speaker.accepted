@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_device_mobile_speaker
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" height="128" opacity="0.2" rx="16" transform="translate(256) rotate(90)" width="208" x="24" y="64"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="128" rx="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" transform="translate(256) rotate(90)" width="208" x="24" y="64"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="96" x2="160" y1="56" y2="56"></line></svg>

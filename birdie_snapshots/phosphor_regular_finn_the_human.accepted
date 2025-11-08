@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_regular_finn_the_human
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="72" rx="32" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" width="144" x="56" y="112"></rect><path xmlns="http://www.w3.org/2000/svg" d="M24,72a24,24,0,0,1,48,0H184a24,24,0,0,1,48,0v80a64,64,0,0,1-64,64H88a64,64,0,0,1-64-64Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path><circle xmlns="http://www.w3.org/2000/svg" cx="92" cy="148" r="12"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="164" cy="148" r="12"></circle></svg>

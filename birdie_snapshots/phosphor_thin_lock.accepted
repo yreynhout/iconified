@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_lock
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="128" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" width="176" x="40" y="88"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="152" r="8"></circle><path xmlns="http://www.w3.org/2000/svg" d="M88,88V56a40,40,0,0,1,80,0V88" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path></svg>

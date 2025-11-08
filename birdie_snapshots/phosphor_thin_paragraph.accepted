@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_paragraph
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="184" x2="184" y1="48" y2="208"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="144" x2="144" y1="48" y2="208"></line><path xmlns="http://www.w3.org/2000/svg" d="M144,160H96A56,56,0,0,1,96,48H208" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path></svg>

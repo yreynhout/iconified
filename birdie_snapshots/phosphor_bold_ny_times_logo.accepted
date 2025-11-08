@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_ny_times_logo
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="176" cy="148" r="16"></circle><path xmlns="http://www.w3.org/2000/svg" d="M64.19,95.74A28,28,0,0,1,68,40L188,96a28,28,0,0,0,0-56" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="92" x2="92" y1="133.33" y2="215.46"></line><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="48.94 156.3 132 112 132 224" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><path xmlns="http://www.w3.org/2000/svg" d="M199.46,180A80,80,0,1,1,120.23,64.37" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

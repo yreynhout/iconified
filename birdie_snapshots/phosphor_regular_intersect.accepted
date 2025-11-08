@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_regular_intersect
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="96" cy="96" fill="none" r="72" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="160" cy="160" fill="none" r="72" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="98.52" x2="133.48" y1="122.52" y2="157.48"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="122.52" x2="157.48" y1="98.52" y2="133.48"></line></svg>

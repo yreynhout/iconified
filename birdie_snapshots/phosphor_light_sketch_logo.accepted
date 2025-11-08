@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_light_sketch_logo
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="72 40 184 40 240 104 128 224 16 104 72 40" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></polygon><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="176 104 128 224 80 104 128 40 176 104" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></polygon><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" x1="16" x2="240" y1="104" y2="104"></line></svg>

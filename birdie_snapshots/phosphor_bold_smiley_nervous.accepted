@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_smiley_nervous
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" fill="none" r="96" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="92" cy="108" r="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="164" cy="108" r="16"></circle><path xmlns="http://www.w3.org/2000/svg" d="M86.72,165.81C92.65,161.43,94.79,152,104,152c12,0,12,16,24,16s12-16,24-16c9.21,0,11.35,9.43,17.28,13.81" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

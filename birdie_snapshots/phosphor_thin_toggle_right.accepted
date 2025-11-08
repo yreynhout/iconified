@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_toggle_right
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="128" rx="64" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" width="224" x="16" y="64"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="176" cy="128" fill="none" r="32" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></circle></svg>

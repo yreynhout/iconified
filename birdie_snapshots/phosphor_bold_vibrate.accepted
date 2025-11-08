@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_vibrate
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="104" rx="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" transform="translate(256) rotate(90)" width="176" x="40" y="76"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="220" x2="220" y1="100" y2="156"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="36" x2="36" y1="100" y2="156"></line></svg>

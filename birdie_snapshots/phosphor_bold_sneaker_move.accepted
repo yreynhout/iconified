@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_sneaker_move
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M168,80a56,56,0,0,1-56-56L35,82.41a8,8,0,0,0-.63,11.87L148.06,208H224a8,8,0,0,0,8-8V180.94a8,8,0,0,0-4.42-7.15L199,159.48a56,56,0,0,1-31-50.09Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="32" x2="55.49" y1="172" y2="172"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="48" x2="91.49" y1="208" y2="208"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="108.63" x2="60.03" y1="112" y2="63.4"></line></svg>

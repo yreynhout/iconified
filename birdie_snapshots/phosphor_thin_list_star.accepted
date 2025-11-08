@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_list_star
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="40" x2="216" y1="64" y2="64"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="40" x2="96" y1="128" y2="128"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="40" x2="112" y1="192" y2="192"></line><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="184 174.54 213.67 192 205.6 159.41 232 137.61 197.35 134.94 184 104 170.65 134.94 136 137.61 162.4 159.41 154.33 192 184 174.54" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></polygon></svg>

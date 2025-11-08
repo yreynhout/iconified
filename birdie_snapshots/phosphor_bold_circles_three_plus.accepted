@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_circles_three_plus
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="78" cy="78" fill="none" r="30" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="178" cy="78" fill="none" r="30" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="78" cy="178" fill="none" r="30" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="178" x2="178" y1="148" y2="208"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="208" x2="148" y1="178" y2="178"></line></svg>

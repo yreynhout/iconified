@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_mouse_middle_click
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="64" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" width="40" x="108" y="80"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="208" rx="56" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" width="144" x="56" y="24"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="128" x2="128" y1="80" y2="24"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="56" x2="108" y1="112" y2="112"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="148" x2="200" y1="112" y2="112"></line></svg>

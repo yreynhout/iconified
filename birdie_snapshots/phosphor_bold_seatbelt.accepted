@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_seatbelt
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="68" fill="none" r="36" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="200 224 56 224 192 112" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><path xmlns="http://www.w3.org/2000/svg" d="M193.67,162.44A71.51,71.51,0,0,1,199.56,184" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><path xmlns="http://www.w3.org/2000/svg" d="M59.71,169.13a72,72,0,0,1,108-37.17" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

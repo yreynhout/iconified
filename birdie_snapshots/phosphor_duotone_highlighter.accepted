@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_highlighter
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polygon xmlns="http://www.w3.org/2000/svg" opacity="0.2" points="88 128 24 192 96 216 136 176 88 128"></polygon><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="88 128 24 192 96 216 136 176" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline><path xmlns="http://www.w3.org/2000/svg" d="M184,160l-26.34,26.34a8,8,0,0,1-11.32,0L77.66,117.66a8,8,0,0,1,0-11.32L104,80" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path><path xmlns="http://www.w3.org/2000/svg" d="M248,112l-50.34,50.34a8,8,0,0,1-11.32,0L101.66,77.66a8,8,0,0,1,0-11.32L152,16" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path></svg>

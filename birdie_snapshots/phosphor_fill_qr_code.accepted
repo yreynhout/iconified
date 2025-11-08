@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_fill_qr_code
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" height="80" rx="16" width="80" x="40" y="40"></rect><rect xmlns="http://www.w3.org/2000/svg" height="80" rx="16" width="80" x="40" y="136"></rect><rect xmlns="http://www.w3.org/2000/svg" height="80" rx="16" width="80" x="136" y="40"></rect><path xmlns="http://www.w3.org/2000/svg" d="M144,184a8,8,0,0,0,8-8V144a8,8,0,0,0-16,0v32A8,8,0,0,0,144,184Z"></path><path xmlns="http://www.w3.org/2000/svg" d="M208,152H184v-8a8,8,0,0,0-16,0v56H144a8,8,0,0,0,0,16h32a8,8,0,0,0,8-8V168h24a8,8,0,0,0,0-16Z"></path><path xmlns="http://www.w3.org/2000/svg" d="M208,184a8,8,0,0,0-8,8v16a8,8,0,0,0,16,0V192A8,8,0,0,0,208,184Z"></path></svg>

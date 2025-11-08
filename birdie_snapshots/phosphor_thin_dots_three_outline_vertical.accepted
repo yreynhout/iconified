@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_dots_three_outline_vertical
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" fill="none" r="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="48" fill="none" r="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="208" fill="none" r="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></circle></svg>

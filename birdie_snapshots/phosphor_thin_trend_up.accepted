@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_trend_up
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="232 56 136 152 96 112 24 184" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></polyline><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="232 120 232 56 168 56" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></polyline></svg>

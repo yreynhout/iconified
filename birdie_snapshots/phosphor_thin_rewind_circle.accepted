@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_rewind_circle
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" fill="none" r="96" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></circle><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="116 92 116 164 68 128 116 92" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></polygon><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="172 92 172 164 124 128 172 92" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></polygon></svg>

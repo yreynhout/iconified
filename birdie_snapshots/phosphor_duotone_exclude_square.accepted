@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_exclude_square
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polygon xmlns="http://www.w3.org/2000/svg" opacity="0.2" points="160 96 160 40 40 40 40 160 96 160 96 96 160 96"></polygon><polygon xmlns="http://www.w3.org/2000/svg" opacity="0.2" points="160 96 160 160 96 160 96 216 216 216 216 96 160 96"></polygon><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="120" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" width="120" x="40" y="40"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="120" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" width="120" x="96" y="96"></rect></svg>

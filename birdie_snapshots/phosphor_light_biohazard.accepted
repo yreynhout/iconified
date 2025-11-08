@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_light_biohazard
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="132" fill="none" r="56" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></circle><path xmlns="http://www.w3.org/2000/svg" d="M208,207.83A52,52,0,1,1,232,164" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></path><path xmlns="http://www.w3.org/2000/svg" d="M24,164a52,52,0,1,1,24,43.83" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></path><path xmlns="http://www.w3.org/2000/svg" d="M152,27.79a52,52,0,1,1-48,0" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></path></svg>

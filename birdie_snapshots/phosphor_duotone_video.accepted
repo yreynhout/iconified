@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_video
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M216,48H40a8,8,0,0,0-8,8V168a8,8,0,0,0,8,8H216a8,8,0,0,0,8-8V56A8,8,0,0,0,216,48ZM112,144V80l48,32Z" opacity="0.2"></path><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="160 112 112 80 112 144 160 112" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polygon><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="128" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" width="192" x="32" y="48"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="32" x2="224" y1="208" y2="208"></line></svg>

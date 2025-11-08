@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_pix_logo
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" height="151.73" opacity="0.2" rx="7.95" transform="translate(-53.02 128) rotate(-45)" width="151.73" x="52.13" y="52.13"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="151.73" rx="7.95" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" transform="translate(-53.02 128) rotate(-45)" width="151.73" x="52.13" y="52.13"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="52.71 96 96 96 160 160 203.29 160" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="203.29 96 160 96 96 160 52.71 160" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline></svg>

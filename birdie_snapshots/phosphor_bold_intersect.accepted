@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_intersect
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="96" cy="96" fill="none" r="72" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="160" cy="160" fill="none" r="72" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="109.09" x2="146.91" y1="109.09" y2="146.91"></line></svg>

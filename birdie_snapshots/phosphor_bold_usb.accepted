@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_usb
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="132" cy="64" fill="none" r="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="12" x2="196" y1="128" y2="128"></line><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="196 92 196 164 244 128 196 92" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polygon><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="48" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" width="48" x="108" y="168"></rect><path xmlns="http://www.w3.org/2000/svg" d="M108,64H72a8,8,0,0,0-8,8V184a8,8,0,0,0,8,8h36" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

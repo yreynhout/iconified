@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_regular_escalator_down
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="176 80 200 104 224 80" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="200" x2="200" y1="48" y2="104"></line><path xmlns="http://www.w3.org/2000/svg" d="M32,48H88l96,104h40a8,8,0,0,1,8,8v40a8,8,0,0,1-8,8H168L72,104H32a8,8,0,0,1-8-8V56A8,8,0,0,1,32,48Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path></svg>

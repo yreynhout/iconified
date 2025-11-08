@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_regular_lasso
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><ellipse xmlns="http://www.w3.org/2000/svg" cx="128" cy="112" fill="none" rx="104" ry="64" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></ellipse><path xmlns="http://www.w3.org/2000/svg" d="M48,225.6c32,16.7,80,0,80-41.77,0-53.66-60.64-62.5-70.62-24.85" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path></svg>

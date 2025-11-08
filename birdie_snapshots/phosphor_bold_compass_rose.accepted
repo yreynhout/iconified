@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_compass_rose
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="128 12 104 104 128 128 152 104 128 12" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polygon><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="128 244 104 152 128 128 152 152 128 244" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polygon><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="152 104 244 128 152 152" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="104 104 12 128 104 152" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="128" fill="none" r="88" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle></svg>

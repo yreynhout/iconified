@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_map_trifold
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="96" x2="96" y1="184" y2="40"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="160" x2="160" y1="72" y2="216"></line><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="96 184 32 200 32 56 96 40 160 72 224 56 224 200 160 216 96 184" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polygon></svg>

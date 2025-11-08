@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_orange
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="152" opacity="0.2" r="80"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="128" cy="152" fill="none" r="80" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></circle><path xmlns="http://www.w3.org/2000/svg" d="M128,72h0a56,56,0,0,1,56-56h8a56,56,0,0,1-56,56Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path><path xmlns="http://www.w3.org/2000/svg" d="M128,72h0A56,56,0,0,0,72,16H64" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path><path xmlns="http://www.w3.org/2000/svg" d="M176,160a49.52,49.52,0,0,1-40,40" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path></svg>

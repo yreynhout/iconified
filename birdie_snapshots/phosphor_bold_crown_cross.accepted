@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_crown_cross
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="128" x2="128" y1="176" y2="12"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="104" x2="152" y1="32" y2="32"></line><path xmlns="http://www.w3.org/2000/svg" d="M24,120A52,52,0,0,1,76,68c28.72,0,52,19.28,52,48,0-28.72,23.28-48,52-48a52,52,0,0,1,52,52c0,52-48,64-48,64v24a8,8,0,0,1-8,8H80a8,8,0,0,1-8-8V184S24,172,24,120Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

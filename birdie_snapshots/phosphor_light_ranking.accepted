@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_light_ranking
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M32,208V104a8,8,0,0,1,8-8H88" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></path><path xmlns="http://www.w3.org/2000/svg" d="M88,208V56a8,8,0,0,1,8-8h64a8,8,0,0,1,8,8V208" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></path><path xmlns="http://www.w3.org/2000/svg" d="M224,208V144a8,8,0,0,0-8-8H168" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></path><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="120 100 132 96 132 136" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></polyline><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" x1="16" x2="240" y1="208" y2="208"></line></svg>

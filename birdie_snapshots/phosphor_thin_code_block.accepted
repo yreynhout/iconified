@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_code_block
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="64 32 32 64 64 96" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></polyline><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="104 32 136 64 104 96" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></polyline><path xmlns="http://www.w3.org/2000/svg" d="M176,48h24a8,8,0,0,1,8,8V200a8,8,0,0,1-8,8H56a8,8,0,0,1-8-8V136" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path></svg>

@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_control
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polygon xmlns="http://www.w3.org/2000/svg" opacity="0.2" points="56 120 128 48 200 120 56 120"></polygon><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="56 120 128 48 200 120 56 120" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polygon></svg>

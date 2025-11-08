@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_regular_shopping_bag_open
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="160" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" width="192" x="32" y="48"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="32" x2="224" y1="80" y2="80"></line><path xmlns="http://www.w3.org/2000/svg" d="M168,112a40,40,0,0,1-80,0" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path></svg>

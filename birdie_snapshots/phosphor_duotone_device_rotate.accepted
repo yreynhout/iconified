@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_device_rotate
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" height="128" opacity="0.2" rx="16" transform="translate(256) rotate(90)" width="176" x="40" y="64"></rect><path xmlns="http://www.w3.org/2000/svg" d="M200,216H80a16,16,0,0,1-16-16V104" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path><path xmlns="http://www.w3.org/2000/svg" d="M56,40H176a16,16,0,0,1,16,16v96" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="176 192 200 216 176 240" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="80 16 56 40 80 64" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline></svg>

@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_fork_knife
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="80" x2="80" y1="40" y2="88"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="80" x2="80" y1="128" y2="224"></line><path xmlns="http://www.w3.org/2000/svg" d="M208,168H152s0-104,56-128V224" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path><path xmlns="http://www.w3.org/2000/svg" d="M48,40,40,88a40,40,0,0,0,80,0l-8-48" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path></svg>

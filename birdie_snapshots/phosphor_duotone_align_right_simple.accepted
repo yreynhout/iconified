@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_align_right_simple
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" height="80" opacity="0.2" rx="8" width="168" x="24" y="88"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="224" x2="224" y1="56" y2="200"></line><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="80" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" width="168" x="24" y="88"></rect></svg>

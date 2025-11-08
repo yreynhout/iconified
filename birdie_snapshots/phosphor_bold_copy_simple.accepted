@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_copy_simple
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="140" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" width="140" x="40" y="76"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="76 40 216 40 216 180" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg>

@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_light_flag_banner_fold
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="152 224 232 48 152 48 112 136 192 136" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></polyline><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="112 136 101.09 160 28 160 68 116 28 72 141.09 72" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></polyline></svg>

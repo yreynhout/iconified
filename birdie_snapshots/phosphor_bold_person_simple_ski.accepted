@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_person_simple_ski
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="176" cy="60" fill="none" r="20" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="152.94" x2="40" y1="116.94" y2="84"></line><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="200 124 160 124 128 92 114.32 105.68" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><path xmlns="http://www.w3.org/2000/svg" d="M232,201.6a61.94,61.94,0,0,1-51.69,7.92L24,164" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="88 140 144 156 110.74 189.26" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg>

@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_cloud_warning
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><path xmlns="http://www.w3.org/2000/svg" d="M80,127.62a80,80,0,1,1,80,80H72A56,56,0,1,1,85.93,97.36" opacity="0.2"></path><path xmlns="http://www.w3.org/2000/svg" d="M80,128a80,80,0,1,1,80,80H72A56,56,0,1,1,85.92,97.74" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" x1="160" x2="160" y1="128" y2="88"></line><circle xmlns="http://www.w3.org/2000/svg" cx="160" cy="164" r="12"></circle></svg>

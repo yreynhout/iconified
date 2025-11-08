@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_light_arrows_vertical
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="96 56 128 24 160 56" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></polyline><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" x1="128" x2="128" y1="232" y2="24"></line><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="160 200 128 232 96 200" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></polyline></svg>

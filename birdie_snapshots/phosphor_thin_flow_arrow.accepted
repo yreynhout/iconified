@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_flow_arrow
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="48" cy="176" fill="none" r="32" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></circle><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="208 48 240 80 208 112" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></polyline><path xmlns="http://www.w3.org/2000/svg" d="M80,176c88,0,40-96,128-96h32" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></path></svg>

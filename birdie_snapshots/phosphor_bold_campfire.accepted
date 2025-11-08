@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_bold_campfire
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="40" x2="216" y1="172" y2="224"></line><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" x1="216" x2="40" y1="172" y2="224"></line><path xmlns="http://www.w3.org/2000/svg" d="M152,132a24,24,0,0,1-48,0c0-24,24-36,24-36S152,108,152,132Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><path xmlns="http://www.w3.org/2000/svg" d="M180,104a52,52,0,0,1-104,0c0-44,52-72,52-72S180,60,180,104Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg>

@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_music_notes_simple
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="180" cy="164" opacity="0.2" r="28"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="52" cy="196" opacity="0.2" r="28"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="180" cy="164" fill="none" r="28" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="52" cy="196" fill="none" r="28" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></circle><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="80 196 80 56 208 24 208 164" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline></svg>

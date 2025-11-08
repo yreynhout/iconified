@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_thin_line_segment
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><circle xmlns="http://www.w3.org/2000/svg" cx="64" cy="192" fill="none" r="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></circle><circle xmlns="http://www.w3.org/2000/svg" cx="192" cy="64" fill="none" r="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"></circle><line xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" x1="175.03" x2="80.97" y1="80.97" y2="175.03"></line></svg>

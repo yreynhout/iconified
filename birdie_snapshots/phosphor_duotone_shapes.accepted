@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_shapes
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polygon xmlns="http://www.w3.org/2000/svg" opacity="0.2" points="64 64 24 184 104 184 64 64"></polygon><circle xmlns="http://www.w3.org/2000/svg" cx="156" cy="76" opacity="0.2" r="44"></circle><rect xmlns="http://www.w3.org/2000/svg" height="56" opacity="0.2" width="88" x="136" y="152"></rect><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="64 64 24 184 104 184 64 64" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polygon><circle xmlns="http://www.w3.org/2000/svg" cx="156" cy="76" fill="none" r="44" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></circle><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="56" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" width="88" x="136" y="152"></rect></svg>

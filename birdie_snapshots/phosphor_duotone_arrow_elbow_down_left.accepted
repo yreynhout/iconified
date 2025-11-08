@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: phosphor_duotone_arrow_elbow_down_left
+---
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect xmlns="http://www.w3.org/2000/svg" fill="none" height="256" width="256"></rect><polygon xmlns="http://www.w3.org/2000/svg" opacity="0.2" points="96 128 48 176 96 224 96 128"></polygon><polygon xmlns="http://www.w3.org/2000/svg" fill="none" points="96 128 48 176 96 224 96 128" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polygon><polyline xmlns="http://www.w3.org/2000/svg" fill="none" points="192 32 192 176 96 176" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline></svg>
