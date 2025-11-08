@@ -1,6 +1,6 @@
 import birdie
-import lustre/element
 import feather
+import lustre/element
 
 pub fn activity_icon_test() {
   feather.activity_icon([])
