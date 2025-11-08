@@ -1,0 +1,18 @@
+name = "generate_heroicons"
+version = "1.0.0"
+licences = ["MIT"]
+description = "Generates tailwindlabs/heroicons as Lustre elements"
+repository = { type = "github", user = "yreynhout", repo = "https://github.com/yreynhout/heroicons" }
+target = "javascript"
+
+[dependencies]
+gleam_stdlib = ">= 0.44.0 and < 2.0.0"
+simplifile = ">= 2.0.0 and < 3.0.0"
+argv = ">= 1.0.2 and < 2.0.0"
+filepath = ">= 1.1.2 and < 2.0.0"
+html_lustre_converter = ">= 1.5.0 and < 2.0.0"
+xmlm = ">= 1.0.1 and < 2.0.0"
+lustre = ">= 5.4.0 and < 6.0.0"
+
+[dev-dependencies]
+gleeunit = ">= 1.0.0 and < 2.0.0"

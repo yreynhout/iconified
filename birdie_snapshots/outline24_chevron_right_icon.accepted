@@ -1,0 +1,7 @@
+---
+version: 1.4.1
+title: outline24_chevron_right_icon
+file: ./test/outline24_test.gleam
+test_name: chevron_right_icon_test
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" viewBox="0 0 24 24" width="24"><path xmlns="http://www.w3.org/2000/svg" d="M8.25 4.5L15.75 12L8.25 19.5" stroke="#0F172A" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></svg>

@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: solid24_minus_small_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" viewBox="0 0 24 24" width="24"><path xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd" d="M5.25 12C5.25 11.5858 5.58579 11.25 6 11.25L18 11.25C18.4142 11.25 18.75 11.5858 18.75 12C18.75 12.4142 18.4142 12.75 18 12.75L6 12.75C5.58579 12.75 5.25 12.4142 5.25 12Z" fill="#0F172A" fill-rule="evenodd"></path></svg>

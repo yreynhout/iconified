@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: solid16_stop_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="16" viewBox="0 0 16 16" width="16"><rect xmlns="http://www.w3.org/2000/svg" fill="black" height="10" rx="1.5" width="10" x="3" y="3"></rect></svg>

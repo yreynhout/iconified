@@ -1,0 +1,5 @@
+---
+version: 1.4.1
+title: outline24_arrow_up_icon
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" viewBox="0 0 24 24" width="24"><path xmlns="http://www.w3.org/2000/svg" d="M4.5 10.5L12 3M12 3L19.5 10.5M12 3V21" stroke="#0F172A" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></svg>

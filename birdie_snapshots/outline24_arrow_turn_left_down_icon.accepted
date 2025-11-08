@@ -1,0 +1,7 @@
+---
+version: 1.4.1
+title: outline24_arrow_turn_left_down_icon
+file: ./test/outline24_test.gleam
+test_name: arrow_turn_left_down_icon_test
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" viewBox="0 0 24 24" width="24"><path xmlns="http://www.w3.org/2000/svg" d="M11.9901 16.4996L8.23975 20.2495M8.23975 20.2495L4.48939 16.4996M8.23975 20.2495L8.23975 3.75L19.4907 3.75" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></svg>

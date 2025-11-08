@@ -1,0 +1,7 @@
+---
+version: 1.4.1
+title: outline24_chevron_double_up_icon
+file: ./test/outline24_test.gleam
+test_name: chevron_double_up_icon_test
+---
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" viewBox="0 0 24 24" width="24"><path xmlns="http://www.w3.org/2000/svg" d="M4.5 18.75L12 11.25L19.5 18.75" stroke="#0F172A" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path xmlns="http://www.w3.org/2000/svg" d="M4.5 12.75L12 5.25L19.5 12.75" stroke="#0F172A" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></svg>
