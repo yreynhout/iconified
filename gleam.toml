@@ -1,8 +1,8 @@
-name = "heroicons"
+name = "iconified"
 version = "1.0.0"
 licences = ["MIT"]
-description = "Port of tailwindlabs/heroicons"
-repository = { type = "github", user = "yreynhout", repo = "https://github.com/yreynhout/heroicons" }
+description = "Icon libraries, expressed as lustre elements"
+repository = { type = "github", user = "yreynhout", repo = "https://github.com/yreynhout/iconified" }
 
 [dependencies]
 gleam_stdlib = ">= 0.44.0 and < 2.0.0"

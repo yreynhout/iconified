@@ -1,3 +1,9 @@
-[submodule "heroicons"]
-	path = heroicons
+[submodule "generator/heroicons"]
+	path = generator/heroicons
 	url = git@github.com:tailwindlabs/heroicons.git
+[submodule "generator/feather"]
+	path = generator/feather
+	url = git@github.com:feathericons/feather.git
+[submodule "generator/phosphor"]
+	path = generator/phosphor
+	url = git@github.com:phosphor-icons/core.git

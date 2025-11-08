@@ -1,7 +1,5 @@
 ---
 version: 1.4.1
 title: outline24_chevron_double_left_icon
-file: ./test/outline24_test.gleam
-test_name: chevron_double_left_icon_test
 ---
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" viewBox="0 0 24 24" width="24"><path xmlns="http://www.w3.org/2000/svg" d="M18.75 4.5L11.25 12L18.75 19.5M12.75 4.5L5.25 12L12.75 19.5" stroke="#0F172A" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" data-slot="icon" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path xmlns="http://www.w3.org/2000/svg" d="m18.75 4.5-7.5 7.5 7.5 7.5m-6-15L5.25 12l7.5 7.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>
